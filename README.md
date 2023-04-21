@@ -1,5 +1,5 @@
 # mathify
-A calculator application made with React JS.
+A fully functional calculator application made with React JS.
 
 ## Start application
 - clone the reposiory in your local machine.
