@@ -13,5 +13,5 @@ npm run dev
 ```
 - open the port in your browser `localhost:5173/` <br/>
 
-<hr>
-live demo at <a href="https://mathify.netlify.app">Mathify</a>
+<hr />
+<h3>Live demo at <a href="https://mathify.netlify.app">Mathify</a></h3>
