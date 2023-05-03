@@ -11,5 +11,5 @@ git clone https://github.com/Anuj-Khadka/mathify.git
 ```bash
 npm run dev
 ```
-- open the port in your browser `localhost:5173/`
+- open the port in your browser `localhost:5173/` <br/>
 live demo at <a href="https://mathify.netlify.app">Mathify</a>
