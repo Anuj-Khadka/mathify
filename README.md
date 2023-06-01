@@ -6,10 +6,16 @@
 - [Technologies](#technologies)
 - [Glimpese](#glimpse)
 - [How to Run](#how-to-run)
+    - [Live Demo](#live-demo)
+    - [Run Locally](#run-locally)
 - [Features](#features)
 - [Other Details](#other-details)
 
 ## How to Run
+### Live Demo
+Live demo at <a href="https://themathify.netlify.app/">Mathify</a>
+
+### Run Locally
 - Clone the reposiory in your local machine.
 ```bash
 git clone https://github.com/Anuj-Khadka/mathify.git
@@ -29,13 +35,11 @@ npm run dev
 - Easy User Experience.
 
 ## Other Details
-Live demo <a href="https://themathify.netlify.app/">Mathify</a>
-## Repo Details
  <p align="left">
     <img src="https://img.shields.io/github/contributors/anuj-khadka/Mathify?style=for-the-badge" />
     <img src="https://img.shields.io/github/commit-activity/t/Anuj-Khadka/Mathify?style=for-the-badge" />
     <img src="https://img.shields.io/github/forks/anuj-khadka/Mathify?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues/anuj-khadka/Mathify?style=for-the-badge" />
+  <!--  <img src="https://img.shields.io/github/issues/anuj-khadka/Mathify?style=for-the-badge" />
     <img src="https://img.shields.io/github/issues-pr-closed/anuj-khadka/Mathify?style=for-the-badge" />
-    <img src="https://img.shields.io/github/commit-activity/w/anuj-khadka/Mathify?style=for-the-badge" />                                                                                                               
+    <img src="https://img.shields.io/github/commit-activity/w/anuj-khadka/Mathify?style=for-the-badge" />                                       -->                                                                        
 </p>
