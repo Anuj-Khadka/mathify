@@ -30,6 +30,12 @@ Brought to live by React, JavaScript's component-based UI library, Mathify is st
     </a>
 </p>
 
+## Glimpse
+<p>
+    <img src="documentations/images/home.PNG" alt="glimpse-1" />
+    <img src="documentations/images/operation.PNG" alt="glimpse-2" />
+</p>
+
 ## How to Run
 ### Live Demo
 Live demo at <a href="https://themathify.netlify.app/">Mathify</a>
