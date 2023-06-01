@@ -9,17 +9,24 @@
 - [Features](#features)
 - [Links](#links)
 
-## Start application
-- clone the reposiory in your local machine.
+## How to Run
+- Clone the reposiory in your local machine.
 ```bash
 git clone https://github.com/Anuj-Khadka/mathify.git
 ```
-- open the terminal inside the project folder.
-- run the command
+- Open the terminal inside the project folder.
+- Run the command
 ```bash
 npm run dev
 ```
-- open the port in your browser `localhost:5173/` <br/>
+- Open the port in your browser `localhost:5173/` <br/>
 
-<hr />
-<h3>Live demo at <a href="https://themathify.netlify.app/">Mathify</a></h3>
+## Features
+- Simple mathematical DMAS operations.
+- Single character erase from backward.
+- Clear entire screen.
+- Previous calculation's display along with the current one.
+- Easy User Experience.
+
+## Links
+Live demo <a href="https://themathify.netlify.app/">Mathify</a>
