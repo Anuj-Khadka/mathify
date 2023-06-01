@@ -1,5 +1,5 @@
 # Mathify
-> A fully functional calculator application made with React JS.
+> Simplify your calculations with a sleek and intuitive calculator built on React.js.
 
 ## Table of Content 
 - [General Info](#general-info)
@@ -11,8 +11,12 @@
 - [Features](#features)
 - [Other Details](#other-details)
 
+## General Info
+A beginner project calculator, Mathify made with React.js is a simple application that allows users to perform basic mathematical calculations. It provides a user-friendly interface where users can input numbers, select mathematical operations such as addition, subtraction, multiplication, and division, and obtain the result instantly. This calculator project helps beginners learn the fundamentals of React.js, including component rendering, state management, event handling, and conditional rendering.
+
+
 ## Technologies
-Brought to live by React, JavaScript's component-based UI library, Mathify is styled for better apperance by CSS.
+This calculator application leverages the power core web technologies of HTML for structure, CSS for styling, JavaScript for logic, and React.js for building modern and interactive components, resulting in a seamless and feature-rich calculator interface. 
 <p>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=HTML&logoColor=white" alt="html"/>
